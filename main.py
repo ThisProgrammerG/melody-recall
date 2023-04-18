@@ -1,10 +1,15 @@
 import pygame
 
+from assets import IMAGE_ICON
+from assets import get_path
+
+
 def main():
     pygame.init()
 
     import engine
 
+    pygame.display.set_icon(pygame.image.load(get_path(images=IMAGE_ICON)))
     pygame.display.set_caption(engine.caption)
     pygame.display.set_mode(engine.window_rect.size)
 

@@ -12,6 +12,7 @@ def get_path(*, fonts='', images='', musics='', sounds='') -> Path:
 # FONTS
 
 # IMAGES
+IMAGE_ICON = 'icon.png'
 
 # MUSICS
 
