@@ -1,8 +1,8 @@
 # Melody Recall
 
-Test your memory recall by playing the correct note sequence. Can play via mouse or numpad keys.
+Test your memory recall by playing the sequence of notes. Play via mouse or numpad keys.
 
-Small game built to understand the basics of ECS(EntityComponentSystem) and pygame's surface blending.
+Small game built to experiment with ECS(EntityComponentSystem) and pygame's surface blending.
 
 
 
