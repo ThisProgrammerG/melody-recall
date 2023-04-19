@@ -1,3 +1,4 @@
+from .paths import IMAGE_CURSOR
 from .paths import IMAGE_ICON
 from .paths import SOUND_1
 from .paths import SOUND_2
