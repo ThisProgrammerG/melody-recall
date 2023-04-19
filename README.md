@@ -1,4 +1,4 @@
-# Melody Recall
+# Melody Recall: Remember the Notes
 
 Test your memory recall by playing the sequence of notes. Played via mouse or numpad keys.
 
