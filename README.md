@@ -16,7 +16,7 @@ Thoughts for the future:
   * VisibilityComponent 
   * ToggleComponent
   * TimerComponent
-  * Query specific component combinations
+  * Dynamically query component combinations
 * Join Position and Rect into one 
 * Differentiate between Systems and Managers
 * Entity should only be a number 
